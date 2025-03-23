@@ -1,4 +1,4 @@
-iimport '@videojs/http-streaming';
+import '@videojs/http-streaming';
 import HlsJs from 'hls.js';
 import shaka from 'shaka-player';
 import videojs from 'video.js';
