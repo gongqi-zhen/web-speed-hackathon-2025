@@ -7,6 +7,8 @@
 
 [WebSpeedHackathon2025 をやってみよう](https://zenn.dev/mizchi/scraps/6407ec626b9673)
 
+[Web Speed Hackathon 2025 参加記](https://kq5.jp/posts/wsh2025/)
+
 # Web Speed Hackathon 2025 AREMA
 
 ## 概要
