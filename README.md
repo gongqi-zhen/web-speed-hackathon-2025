@@ -11,6 +11,8 @@
 
 [Web Speed Hackathon 2025 で 10 位を取れたものレギュ落ちした記録](https://zenn.dev/loxygenk/articles/flisan-web-speed-hackathon-2025)
 
+[実践Webフロントパフォーマンスチューニング](https://speakerdeck.com/cp20/shi-jian-webhurontopahuomansutiyuningu)
+
 # Web Speed Hackathon 2025 AREMA
 
 ## 概要
